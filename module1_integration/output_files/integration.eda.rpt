@@ -1,0 +1,64 @@
+EDA Netlist Writer report for integration
+Tue Oct 14 16:16:36 2014
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. EDA Netlist Writer Summary
+  3. EDA Netlist Writer Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+
+
+
++---------------------------------------------------------------+
+; EDA Netlist Writer Summary                                    ;
++---------------------------+-----------------------------------+
+; EDA Netlist Writer Status ; Failed - Tue Oct 14 16:16:36 2014 ;
+; Revision Name             ; integration                       ;
+; Top-level Entity Name     ; integration                       ;
+; Family                    ; Cyclone II                        ;
++---------------------------+-----------------------------------+
+
+
++-----------------------------+
+; EDA Netlist Writer Messages ;
++-----------------------------+
+Info: *******************************************************************
+Info: Running Quartus II 64-Bit EDA Netlist Writer
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+    Info: Processing started: Tue Oct 14 16:16:35 2014
+Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off integration -c integration
+Error (204012): Can't generate netlist output files because the file "C:/Users/Lucas/Projects/altera/EECE381Module1/module1_integration/integrated_module1/synthesis/submodules/integrated_module1_nios2_qsys_0.v" is an OpenCore Plus time-limited file
+Error (204009): Can't generate netlist output files because the license for encrypted file "C:/Users/Lucas/Projects/altera/EECE381Module1/module1_integration/integrated_module1/synthesis/submodules/integrated_module1_nios2_qsys_0.v" is not available
+Error (204012): Can't generate netlist output files because the file "C:/Users/Lucas/Projects/altera/EECE381Module1/module1_integration/integrated_module1/synthesis/submodules/integrated_module1_nios2_qsys_0.v" is an OpenCore Plus time-limited file
+Error (204009): Can't generate netlist output files because the license for encrypted file "C:/Users/Lucas/Projects/altera/EECE381Module1/module1_integration/integrated_module1/synthesis/submodules/integrated_module1_nios2_qsys_0.v" is not available
+Error (204012): Can't generate netlist output files because the file "C:/Users/Lucas/Projects/altera/EECE381Module1/module1_integration/integrated_module1/synthesis/submodules/integrated_module1_nios2_qsys_0.v" is an OpenCore Plus time-limited file
+Error (204009): Can't generate netlist output files because the license for encrypted file "C:/Users/Lucas/Projects/altera/EECE381Module1/module1_integration/integrated_module1/synthesis/submodules/integrated_module1_nios2_qsys_0.v" is not available
+Error: Quartus II 64-Bit EDA Netlist Writer was unsuccessful. 6 errors, 0 warnings
+    Error: Peak virtual memory: 470 megabytes
+    Error: Processing ended: Tue Oct 14 16:16:36 2014
+    Error: Elapsed time: 00:00:01
+    Error: Total CPU time (on all processors): 00:00:02
+
+

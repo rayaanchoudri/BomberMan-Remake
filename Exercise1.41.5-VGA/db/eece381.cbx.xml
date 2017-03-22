@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="eece381">
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_buffer_dma:buffer_dma|scfifo:Image_Buffer" CBX_FILE_NAME="scfifo_70a1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_dual_clock_video_FIFO:dual_clock_video_fifo|dcfifo:Data_FIFO" CBX_FILE_NAME="dcfifo_5oj1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_onchip_memory2_0:onchip_memory2_0|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_bcd1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_jtag_uart_0:jtag_uart_0|nios_system_jtag_uart_0_scfifo_w:the_nios_system_jtag_uart_0_scfifo_w|scfifo:wfifo" CBX_FILE_NAME="scfifo_1n21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_nios2_qsys_0:nios2_qsys_0|nios_system_nios2_qsys_0_nios2_oci:the_nios_system_nios2_qsys_0_nios2_oci|nios_system_nios2_qsys_0_nios2_ocimem:the_nios_system_nios2_qsys_0_nios2_ocimem|nios_system_nios2_qsys_0_ociram_sp_ram_module:nios_system_nios2_qsys_0_ociram_sp_ram|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_hn81.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_nios2_qsys_0:nios2_qsys_0|nios_system_nios2_qsys_0_register_bank_a_module:nios_system_nios2_qsys_0_register_bank_a|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_dah1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_nios2_qsys_0:nios2_qsys_0|nios_system_nios2_qsys_0_register_bank_b_module:nios_system_nios2_qsys_0_register_bank_b|altsyncram:the_altsyncram" CBX_FILE_NAME="altsyncram_eah1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_video_character_buffer_with_dma_0:video_character_buffer_with_dma_0|altera_up_video_128_character_rom:Character_Rom|altsyncram:character_data_rom" CBX_FILE_NAME="altsyncram_e5i1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_video_character_buffer_with_dma_0:video_character_buffer_with_dma_0|altsyncram:Char_Buffer_Memory" CBX_FILE_NAME="altsyncram_4272.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_jtag_uart_0:jtag_uart_0|nios_system_jtag_uart_0_scfifo_r:the_nios_system_jtag_uart_0_scfifo_r|scfifo:rfifo" CBX_FILE_NAME="scfifo_1n21.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|exercise14_15|nios_system:NiosII|nios_system_scaler:scaler|altera_up_video_scaler_multiply_height:Multiply_Height|scfifo:Multiply_Height_FIFO" CBX_FILE_NAME="scfifo_qd31.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
